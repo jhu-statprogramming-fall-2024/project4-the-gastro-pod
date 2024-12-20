@@ -7,4 +7,4 @@ Snashboard is an interactive data visualization tool that combines citizen scien
 
 This repo contains the files for the full snashboard, which included shapefiles from Natural Earth (ne folder) and code to include administrative boundaries from Open Street Map. These are meant to be downloaded and run locally, but please note that the dashboard may take a while to load once a location is entered! 
 
-A lightweight version of snashboard is deployed at https://lsinger-bio.shinyapps.io/snashboard/ , which does not include shape files for the maps (for now).
+A lightweight version of snashboard is deployed at https://lsinger-bio.shinyapps.io/snashboard/ , which does not include shape files for the maps (for now). The repo associated with the deployed dash can be found here: https://github.com/LSinger-bio/snashboard
